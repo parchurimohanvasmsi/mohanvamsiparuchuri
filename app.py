@@ -66,5 +66,5 @@ def contact():
 def api_projects():
     return jsonify(projects)
 
-if __name__ == '__main__':
-    app.run(debug=True) 
+# if __name__ == '__main__':
+#     app.run(debug=True) 
